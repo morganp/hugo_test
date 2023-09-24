@@ -1,0 +1,4 @@
+baseURL: 'https://morganp.github.io/hugo_test/
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
